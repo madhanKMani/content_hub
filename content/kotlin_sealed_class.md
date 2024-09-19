@@ -1,3 +1,5 @@
+# Kotlin Sealed class
+
 Want to manage complex states in your Android apps? Kotlin's `sealed class` is a clean and efficient way to handle it! 
 
 Here's how 👇 #Kotlin #AndroidDev #CodeSmarter
